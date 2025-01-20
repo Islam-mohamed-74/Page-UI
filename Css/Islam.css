@@ -1,4 +1,4 @@
-/* start Global rule  */
+c/* start Global rule  */
 
 * {
   -webkit-box-sizing: border-box;
@@ -1310,10 +1310,10 @@ ul {
     flex-basis: auto;
     align-items: center;
   }
-  .Events .box-events .box-content .text-box .text {
-    margin: 10px 10px;
-    padding: 15px;
+  .Events .box-events .box-content .text-box {
+    gap: 8px;
   }
+
   .Pricing .box-pricing {
     flex-direction: column;
     gap: 20px;
