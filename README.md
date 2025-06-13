@@ -1,2 +1,20 @@
-# Html_and_Css_template-three
-Html and Css design number three -not resposive
+Web Template Three
+A responsive web template built to practice HTML and CSS.
+Technologies
+
+HTML
+CSS
+
+Features
+
+Responsive design for all devices
+Clean and modern layout
+Simple and reusable UI
+
+Installation
+
+Clone the repository: git clone https://github.com/Islam-mohamed-74/Web-Template-Three
+Open index.html in a browser
+
+Live Demo
+View Live Demo
